@@ -1,0 +1,9 @@
+{
+  "foreach": ["context.scripts", {
+    "element": "script",
+    "attributes": {
+      "__type": "props.type",
+      "__src": "props.src"
+    }
+  }]
+}

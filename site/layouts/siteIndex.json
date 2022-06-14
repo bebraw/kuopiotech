@@ -1,0 +1,50 @@
+{
+  "element": "BaseLayout",
+  "props": {
+    "content": [
+      {
+        "element": "header",
+        "class": "bg-gradient-to-br from-yellow-300 to-yellow-100 py-8",
+        "children": [
+          {
+            "element": "div",
+            "class": "sm:mx-auto px-4 py-4 sm:py-8 max-w-3xl flex",
+            "children": [
+              {
+                "element": "div",
+                "class": "flex flex-col gap-8",
+                "children": [
+                  {
+                    "element": "h1",
+                    "class": "text-4xl md:text-8xl",
+                    "children": [
+                      {
+                        "element": "span",
+                        "class": "whitespace-nowrap pr-4",
+                        "children": "🏹"
+                      },
+                      {
+                        "element": "span",
+                        "children": "Kuopio.tech"
+                      }
+                    ]
+                  },
+                  {
+                    "element": "h2",
+                    "class": "text-xl md:text-4xl font-extralight",
+                    "children": "Kuopion kehittäjät yhdessä paikassa"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "element": "div",
+        "class": "md:mx-auto my-8 px-4 md:px-0 w-full lg:max-w-3xl prose lg:prose-xl",
+        "__children": "context.landingPage.content"
+      }
+    ]
+  }
+}

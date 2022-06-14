@@ -1,0 +1,10 @@
+{
+  "/": {
+    "layout": "siteIndex",
+    "meta": {
+      "title": "Kuopio.tech",
+      "description": "Kuopion kehittäjät yhdessä paikassa"
+    },
+    "dataSources": ["landingPage"]
+  }
+}
