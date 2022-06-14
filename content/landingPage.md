@@ -2,9 +2,9 @@
 
 Kuopio.tech on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhteenliittymä, joka järjestää seudulla tapahtumia. Osallistu tavataksesi muita seudun ohjelmoijia.
 
-## Kehitystapahtuma 28.5
+## Kehitystapahtuma 28.10
 
-Suunnitelluista tapahtumista ensimmäinen järjestään perjantaina 28.5 16:00-20:30. Alustava agenda alla:
+Suunnitelluista tapahtumista ensimmäinen järjestään perjantaina 28.10 16:00-20:30. Alustava agenda alla:
 
 * 16:00-16:30 - Ovet avautuvat
 * 16:30-17:15 - The future is mostly static – Juho Vepsäläinen
