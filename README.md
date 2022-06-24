@@ -1,6 +1,6 @@
-# Kuopio.tech - site
+# DevKuopio - site
 
-This is the source of kuopio.tech.
+This is the source of devkuopio.com.
 
 ## Development
 

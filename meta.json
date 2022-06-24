@@ -3,8 +3,8 @@
   "amountOfBuildThreads": 1,
   "meta": {
     "language": "en",
-    "siteName": "Kuopio.tech",
-    "url": "https://kuopio.tech/"
+    "siteName": "DevKuopio",
+    "url": "https://devkuopio.com/"
   },
   "scripts": [
     {

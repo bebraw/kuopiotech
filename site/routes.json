@@ -2,7 +2,7 @@
   "/": {
     "layout": "siteIndex",
     "meta": {
-      "title": "Kuopio.tech",
+      "title": "DevKuopio",
       "description": "Kuopion kehittäjät yhdessä paikassa"
     },
     "dataSources": ["landingPage"]
