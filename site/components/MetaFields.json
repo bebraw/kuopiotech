@@ -80,5 +80,11 @@
   {
     "element": "title",
     "__children": "context.meta.title"
+  },
+  {
+    "element": "script",
+    "attributes": {
+      "src": "https://fienta.com/embed.js"
+    }
   }
 ]

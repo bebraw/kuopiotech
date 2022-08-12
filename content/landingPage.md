@@ -16,7 +16,7 @@ Suunnitelluista tapahtumista ensimmäinen järjestetään perjantaina 28.10 16:0
 
 Huom! Tapahtuma on suomenkielinen ja tilaa on vain 50 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä.
 
-[Rekisteröidy tapahtumaan](TODO)
+[Rekisteröidy tapahtumaan](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
 
 ## Postilista
 
