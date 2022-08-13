@@ -19,13 +19,17 @@
                     "class": "text-4xl md:text-8xl",
                     "children": [
                       {
-                        "element": "span",
-                        "class": "whitespace-nowrap pr-4",
-                        "children": "🏹"
+                        "element": "img",
+                        "class": "pr-8 inline",
+                        "attributes": {
+                          "src": "/assets/images/logo.svg",
+                          "width": "200px"
+                        }
                       },
                       {
                         "element": "span",
-                        "children": "DevKuopio"
+                        "children": "Kuopio",
+                        "class": "align-middle"
                       }
                     ]
                   },

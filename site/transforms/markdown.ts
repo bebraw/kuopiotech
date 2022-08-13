@@ -88,6 +88,15 @@ function transformMarkdown(input: string) {
           ">" +
           "</a>\n";
       },
+      image(href: string, title: string, text: string) {
+        const textParts = text ? text.split("|") : [];
+        const alt = textParts[0] || "";
+        const width = textParts[1] || "";
+        const height = textParts[2] || "";
+        const className = textParts[3] || "";
+
+        return `<img src="${href}" alt="${alt}" class="${className}" width="${width}" height="${height}" />`;
+      },
       link(href: string, title: string, text: string) {
         if (href === null) {
           return text;
