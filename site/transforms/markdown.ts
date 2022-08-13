@@ -95,7 +95,9 @@ function transformMarkdown(input: string) {
         const height = textParts[2] || "";
         const className = textParts[3] || "";
 
-        return `<img src="${href}" alt="${alt}" class="${className}" width="${width}" height="${height}" />`;
+        return `<img src="${href}" alt="${alt}" class="${
+          tw(className)
+        }" width="${width}" height="${height}" />`;
       },
       link(href: string, title: string, text: string) {
         if (href === null) {
