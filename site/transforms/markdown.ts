@@ -108,11 +108,14 @@ function transformMarkdown(input: string) {
           return this.code(Deno.readTextFileSync(href), href.split(".")[1]);
         }
 
-        let out = '<a class="' + tw`underline` + '" href="' + href + '"';
+        const parts = text.split("|");
+
+        let out = '<a class="' + tw(["underline"].concat(parts[1])) +
+          '" href="' + href + '"';
         if (title) {
           out += ' title="' + title + '"';
         }
-        out += ">" + text + "</a>";
+        out += ">" + parts[0] + "</a>";
         return out;
       },
       list(body: string, ordered: string, start: number) {

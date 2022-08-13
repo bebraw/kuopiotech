@@ -16,8 +16,6 @@ Suunnitelluista tapahtumista ensimmäinen järjestetään perjantaina 28.10 16:0
 
 Huom! Tapahtuma on suomenkielinen ja tilaa on vain 50 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä.
 
-[Rekisteröidy tapahtumaan](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
-
 ## Puhujista
 
 Ohessa lyhyet kuvaukset puhujistamme.
@@ -37,6 +35,12 @@ Juho asuu Rautalammilla ja Blue Arrow Awards valitsi hänet Suomen koodisuurläh
 Antilla on yli 20 vuoden kokemus IT alalta ja suurimman osan viime vuosikymmenestä hänen fokuksensa on ollut Azuressa. Hän on auttanut yrityksiä omaksumaan pilven oikeaoppisen käytön luoden pilvistrategioita ja -hallintomalleja, suunnitellut ja toteuttanut isoja migraatioita sekä neuvonut miten parhaiten hallita ja monitoroida pilvialustoja tietoturvallisesti.
 
 Tällä hetkellä hän toimii Cloud & Data yksikön leadina Meltlakella ja hän on aktivisesti osana Suomen Azure yhteisöä.
+
+## Rekisteröityminen
+
+Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
+
+[Rekisteröidy tapahtumaan|mx-auto p-4 border border-black rounded-xl text-2xl bg-gray-100 hover:bg-gray-200](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
 
 ## Postilista
 
