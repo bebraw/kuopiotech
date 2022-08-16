@@ -50,6 +50,6 @@ Jotta saisit tiedon tulevista tapahtumistamme, rekisteröidy listallemme alla:
 
 ## Kuka järjestää?
 
-![Nordcloud|200|42|inline mr-8](/assets/images/nordcloud-logo.png)
-![Meltlake|200|40|inline mr-8](/assets/images/meltlake-logo.png)
-![SurviveJS|200|40|inline](/assets/images/survivejs-logo.svg)
+[![Nordcloud|200|42|inline mr-8](/assets/images/nordcloud-logo.png)](https://nordcloud.com/)
+[![Meltlake|200|40|inline mr-8](/assets/images/meltlake-logo.png)](https://www.meltlake.com/)
+[![SurviveJS|200|40|inline](/assets/images/survivejs-logo.svg)](https://survivejs.com/)
