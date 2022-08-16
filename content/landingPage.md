@@ -50,11 +50,6 @@ Jotta saisit tiedon tulevista tapahtumistamme, rekisteröidy listallemme alla:
 
 ## Kuka järjestää?
 
-<div style="margin: 25px 0 25px 0">
-    <img style="width: 300px; margin-right: 50px" src="../assets/images/nordcloud-logo.png"/>
-    <img style="width: 300px;" src="../assets/images/meltlake-logo.png"/>
-</div>
-
-## Sponsorit
-
-TODO
+![Nordcloud|200|42|inline mr-8](/assets/images/nordcloud-logo.png)
+![Meltlake|200|40|inline mr-8](/assets/images/meltlake-logo.png)
+![SurviveJS|200|40|inline](/assets/images/survivejs-logo.svg)
