@@ -42,12 +42,6 @@ Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
 
 [Rekisteröidy tapahtumaan|mx-auto p-4 border border-black rounded-xl text-2xl bg-gray-100 hover:bg-gray-200](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
 
-## Postilista
-
-Jotta saisit tiedon tulevista tapahtumistamme, rekisteröidy listallemme alla:
-
-[Rekisteröidy postilistalle](TODO)
-
 ## Kuka järjestää?
 
 [![Nordcloud|200|42|inline mr-8](/assets/images/nordcloud-logo.png)](https://nordcloud.com/)
