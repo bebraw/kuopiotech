@@ -4,17 +4,17 @@ DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhte
 
 ## Kehitystapahtuma 28.10
 
-Suunnitelluista tapahtumista ensimmäinen järjestetään perjantaina 28.10 16:00-20:30. Alustava agenda alla:
+Sycksyn kickoff pidetään perjantaina 28.10 16:00-22:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
 
-* 16:00-16:30 - Ovet avautuvat
+* 16:00 - Ovet avautuvat
 * 16:30-17:15 - The future is mostly static – Juho Vepsäläinen
 * 17:15-17:30 - Tauko
 * 17:30-18:15 - Jukka Loikkanen – Github actions
 * 18:15-18:30 - Tauko
 * 18:30-19:15 - Antti Arnell
-* 19:15-20:30 - Loppuseurustelua
+* 19:15-22:00 - Loppuseurustelua
 
-Huom! Tapahtuma on suomenkielinen ja tilaa on vain 50 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä.
+Huom! Tapahtuma on suomenkielinen ja tilaa on vain 30 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille on mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 22:00 asti.
 
 ## Puhujista
 
@@ -50,7 +50,10 @@ Jotta saisit tiedon tulevista tapahtumistamme, rekisteröidy listallemme alla:
 
 ## Kuka järjestää?
 
-TODO
+<div style="margin: 25px 0 25px 0">
+    <img style="width: 300px; margin-right: 50px" src="../assets/images/nordcloud-logo.png"/>
+    <img style="width: 300px;" src="../assets/images/meltlake-logo.png"/>
+</div>
 
 ## Sponsorit
 
