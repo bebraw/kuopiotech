@@ -4,15 +4,15 @@ DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhte
 
 ## Kehitystapahtuma 28.10
 
-Sycksyn kickoff pidetään perjantaina 28.10 16:00-22:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
+Syksyn kickoff pidetään perjantaina 28.10 16:00-23:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
 
 * 16:00 - Ovet avautuvat
 * 16:30-17:15 - The future is mostly static – Juho Vepsäläinen
 * 17:15-17:30 - Tauko
-* 17:30-18:15 - Jukka Loikkanen – Github actions
+* 17:30-18:15 - Lights, camera, GitHub Actions – Jukka Loikkanen
 * 18:15-18:30 - Tauko
 * 18:30-19:15 - Antti Arnell
-* 19:15-22:00 - Loppuseurustelua
+* 19:15-23:00 - Loppuseurustelua
 
 Huom! Tapahtuma on suomenkielinen ja tilaa on vain 30 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille on mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 22:00 asti.
 
@@ -36,6 +36,14 @@ Antilla on yli 20 vuoden kokemus IT alalta ja suurimman osan viime vuosikymmenes
 
 Tällä hetkellä hän toimii Cloud & Data yksikön leadina Meltlakella ja hän on aktivisesti osana Suomen Azure yhteisöä.
 
+### Jukka Loikkanen
+
+![Jukka Loikkanen|200|200|float-right rounded-xl mr-4 !mt-0](/assets/images/jukka-loikkanen.jpg)
+
+Jukka on pilviammattilainen ja kouluttaja, jonka ura IT:n parissa alkoi jo kypsässä 13 vuoden iässä web-kehityksen ja palvelinhallinnan parissa. Sen jälkeen tie on vienyt mm. tietokantakehitykseen, järjestelmäasiantuntijatehtäviin ja lopulta julkipilveen. Vuodesta 2019 Jukan fokus on ollut tiukasti Azuressa ja nykyisin hän auttaa yrityksiä mm. pilvisiirtymissä, -kehityksessä sekä pilven ylläpidossa.
+
+Jukka työskentelee Nordcloudilla Senior Azure Architectina ja jakaa mielellään julkipilven ja varsinkin Azuren ilosanomaa puhumalla konferenseissa ja meetupeissa sekä kirjoittamassaan [blogissa](https://jukkaloikkanen.fi). Hän on myös aktiivisesti mukana Suomen Azure-yhteisöjen ([FAUG](https://www.meetup.com/finland-azure-user-group) ja [Azure & Friends](https://www.azureandfriends.com)) toiminnassa.
+
 ## Rekisteröityminen
 
 Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
@@ -46,4 +54,9 @@ Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
 
 [![Nordcloud|200|42|inline mr-8](/assets/images/nordcloud-logo.png)](https://nordcloud.com/)
 [![Meltlake|200|40|inline mr-8](/assets/images/meltlake-logo.png)](https://www.meltlake.com/)
+[![Talentree|200|40|inline mr-8](/assets/images/talentree.jpg)](https://www.talentree.fi/)
 [![SurviveJS|200|40|inline](/assets/images/survivejs-logo.svg)](https://survivejs.com/)
+![Markus Miettinen|200|200|rounded-xl mr-4 !mt-0](/assets/images/markus-miettinen.jpg)
+![Sami Gråsten|200|200|rounded-xl mr-4 !mt-0](/assets/images/sami-grasten.jpg)
+![Niko Autio|200|200|rounded-xl mr-4 !mt-0](/assets/images/niko-autio.jpg)
+![Juho Vepsäläinen|200|200|rounded-xl mr-4 !mt-0](/assets/images/juho-vepsalainen.jpg)
