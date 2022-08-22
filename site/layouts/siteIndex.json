@@ -47,7 +47,150 @@
       {
         "element": "div",
         "class": "md:mx-auto my-8 px-4 md:px-0 w-full lg:max-w-3xl prose lg:prose-xl",
-        "__children": "context.landingPage.content"
+        "children": [
+          {
+            "__children": "context.landingPage.content"
+          },
+          {
+            "element": "div",
+            "children": [
+              {
+                "element": "h2",
+                "children": "Järjestäjät"
+              },
+              {
+                "element": "div",
+                "class": "flex flex-row gap-8",
+                "children": [
+                  {
+                    "element": "img",
+                    "class": "rounded-xl !mt-0",
+                    "attributes": {
+                      "width": "200",
+                      "height": "200",
+                      "alt": "Markus Miettinen",
+                      "title": "Markus Miettinen",
+                      "src": "/assets/images/markus-miettinen.jpg"
+                    }
+                  },
+                  {
+                    "element": "img",
+                    "class": "rounded-xl !mt-0",
+                    "attributes": {
+                      "width": "200",
+                      "height": "200",
+                      "alt": "Sami Gråsten",
+                      "title": "Sami Gråsten",
+                      "src": "/assets/images/sami-grasten.jpg"
+                    }
+                  },
+                  {
+                    "element": "img",
+                    "class": "rounded-xl !mt-0",
+                    "attributes": {
+                      "width": "200",
+                      "height": "200",
+                      "alt": "Niko Autio",
+                      "title": "Niko Autio",
+                      "src": "/assets/images/niko-autio.jpg"
+                    }
+                  },
+                  {
+                    "element": "img",
+                    "class": "rounded-xl !mt-0",
+                    "attributes": {
+                      "width": "200",
+                      "height": "200",
+                      "alt": "Juho Vepsäläinen",
+                      "title": "Juho Vepsäläinen",
+                      "src": "/assets/images/juho-vepsalainen.jpg"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "element": "div",
+            "class": "",
+            "children": [
+              {
+                "element": "h2",
+                "children": "Sponsorit"
+              },
+              {
+                "element": "div",
+                "class": "flex flex-row gap-8 items-center",
+                "children": [
+                  {
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
+                    "attributes": {
+                      "href": "https://nordcloud.com/"
+                    },
+                    "children": [{
+                      "element": "img",
+                      "class": "!mt-0 !mb-0",
+                      "attributes": {
+                        "width": "200",
+                        "height": "42",
+                        "src": "/assets/images/nordcloud-logo.png"
+                      }
+                    }]
+                  },
+                  {
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
+                    "attributes": {
+                      "href": "https://meltlake.com/"
+                    },
+                    "children": [{
+                      "element": "img",
+                      "class": "!mt-0 !mb-0",
+                      "attributes": {
+                        "width": "200",
+                        "height": "40",
+                        "src": "/assets/images/meltlake-logo.png"
+                      }
+                    }]
+                  },
+                  {
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
+                    "attributes": {
+                      "href": "https://talentree.fi/"
+                    },
+                    "children": [{
+                      "element": "img",
+                      "class": "!mt-0 !mb-0",
+                      "attributes": {
+                        "width": "100",
+                        "height": "100",
+                        "src": "/assets/images/talentree.jpg"
+                      }
+                    }]
+                  },
+                  {
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
+                    "attributes": {
+                      "href": "https://survivejs.com/"
+                    },
+                    "children": [{
+                      "element": "img",
+                      "class": "!mt-0 !mb-0",
+                      "attributes": {
+                        "width": "200",
+                        "height": "40",
+                        "src": "/assets/images/survivejs-logo.svg"
+                      }
+                    }]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

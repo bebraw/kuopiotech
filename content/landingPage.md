@@ -49,14 +49,3 @@ Jukka työskentelee Nordcloudilla Senior Azure Architectina ja jakaa mielellää
 Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
 
 [Rekisteröidy tapahtumaan|mx-auto p-4 border border-black rounded-xl text-2xl bg-gray-100 hover:bg-gray-200](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
-
-## Kuka järjestää?
-
-[![Nordcloud|200|42|inline mr-8](/assets/images/nordcloud-logo.png)](https://nordcloud.com/)
-[![Meltlake|200|40|inline mr-8](/assets/images/meltlake-logo.png)](https://www.meltlake.com/)
-[![Talentree|200|40|inline mr-8](/assets/images/talentree.jpg)](https://www.talentree.fi/)
-[![SurviveJS|200|40|inline](/assets/images/survivejs-logo.svg)](https://survivejs.com/)
-![Markus Miettinen|200|200|rounded-xl mr-4 !mt-0](/assets/images/markus-miettinen.jpg)
-![Sami Gråsten|200|200|rounded-xl mr-4 !mt-0](/assets/images/sami-grasten.jpg)
-![Niko Autio|200|200|rounded-xl mr-4 !mt-0](/assets/images/niko-autio.jpg)
-![Juho Vepsäläinen|200|200|rounded-xl mr-4 !mt-0](/assets/images/juho-vepsalainen.jpg)
