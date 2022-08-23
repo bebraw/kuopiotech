@@ -63,48 +63,84 @@
                 "class": "flex flex-row gap-8",
                 "children": [
                   {
-                    "element": "img",
-                    "class": "rounded-xl !mt-0",
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
                     "attributes": {
-                      "width": "200",
-                      "height": "200",
-                      "alt": "Markus Miettinen",
-                      "title": "Markus Miettinen",
-                      "src": "/assets/images/markus-miettinen.jpg"
-                    }
+                      "href": "https://www.linkedin.com/in/miettinenmarkus/"
+                    },
+                    "children": [
+                      {
+                        "element": "img",
+                        "class": "rounded-xl !mt-0",
+                        "attributes": {
+                          "width": "200",
+                          "height": "200",
+                          "alt": "Markus Miettinen",
+                          "title": "Markus Miettinen",
+                          "src": "/assets/images/markus-miettinen.jpg"
+                        }
+                      }
+                    ]
                   },
                   {
-                    "element": "img",
-                    "class": "rounded-xl !mt-0",
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
                     "attributes": {
-                      "width": "200",
-                      "height": "200",
-                      "alt": "Sami Gråsten",
-                      "title": "Sami Gråsten",
-                      "src": "/assets/images/sami-grasten.jpg"
-                    }
+                      "href": "https://www.linkedin.com/in/samigrasten/"
+                    },
+                    "children": [
+                      {
+                        "element": "img",
+                        "class": "rounded-xl !mt-0",
+                        "attributes": {
+                          "width": "200",
+                          "height": "200",
+                          "alt": "Sami Gråsten",
+                          "title": "Sami Gråsten",
+                          "src": "/assets/images/sami-grasten.jpg"
+                        }
+                      }
+                    ]
                   },
                   {
-                    "element": "img",
-                    "class": "rounded-xl !mt-0",
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
                     "attributes": {
-                      "width": "200",
-                      "height": "200",
-                      "alt": "Niko Autio",
-                      "title": "Niko Autio",
-                      "src": "/assets/images/niko-autio.jpg"
-                    }
+                      "href": "https://www.linkedin.com/in/niko-autio-a02b0991/"
+                    },
+                    "children": [
+                      {
+                        "element": "img",
+                        "class": "rounded-xl !mt-0",
+                        "attributes": {
+                          "width": "200",
+                          "height": "200",
+                          "alt": "Niko Autio",
+                          "title": "Niko Autio",
+                          "src": "/assets/images/niko-autio.jpg"
+                        }
+                      }
+                    ]
                   },
                   {
-                    "element": "img",
-                    "class": "rounded-xl !mt-0",
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
                     "attributes": {
-                      "width": "200",
-                      "height": "200",
-                      "alt": "Juho Vepsäläinen",
-                      "title": "Juho Vepsäläinen",
-                      "src": "/assets/images/juho-vepsalainen.jpg"
-                    }
+                      "href": "https://www.linkedin.com/in/juhovepsalainen/"
+                    },
+                    "children": [
+                      {
+                        "element": "img",
+                        "class": "rounded-xl !mt-0",
+                        "attributes": {
+                          "width": "200",
+                          "height": "200",
+                          "alt": "Juho Vepsäläinen",
+                          "title": "Juho Vepsäläinen",
+                          "src": "/assets/images/juho-vepsalainen.jpg"
+                        }
+                      }
+                    ]
                   }
                 ]
               }
@@ -183,6 +219,22 @@
                         "width": "200",
                         "height": "40",
                         "src": "/assets/images/survivejs-logo.svg"
+                      }
+                    }]
+                  },
+                  {
+                    "element": "a",
+                    "class": "!mt-0 !mb-0",
+                    "attributes": {
+                      "href": "https://www.innofactor.com/"
+                    },
+                    "children": [{
+                      "element": "img",
+                      "class": "!mt-0 !mb-0",
+                      "attributes": {
+                        "width": "200",
+                        "height": "40",
+                        "src": "/assets/images/innofactor.png"
                       }
                     }]
                   }

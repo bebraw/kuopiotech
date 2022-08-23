@@ -14,7 +14,7 @@ Syksyn kickoff pidetään perjantaina 28.10 16:00-23:00 [Novapoliksen 7th Heaven
 * 18:30-19:15 - Antti Arnell
 * 19:15-23:00 - Loppuseurustelua
 
-Huom! Tapahtuma on suomenkielinen ja tilaa on vain 30 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille on mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 22:00 asti.
+Huom! Tapahtuma on suomenkielinen ja tilaa on vain 30 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille on mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 23:00 asti.
 
 ## Puhujista
 
@@ -44,8 +44,8 @@ Jukka on pilviammattilainen ja kouluttaja, jonka ura IT:n parissa alkoi jo kyps�
 
 Jukka työskentelee Nordcloudilla Senior Azure Architectina ja jakaa mielellään julkipilven ja varsinkin Azuren ilosanomaa puhumalla konferenseissa ja meetupeissa sekä kirjoittamassaan [blogissa](https://jukkaloikkanen.fi). Hän on myös aktiivisesti mukana Suomen Azure-yhteisöjen ([FAUG](https://www.meetup.com/finland-azure-user-group) ja [Azure & Friends](https://www.azureandfriends.com)) toiminnassa.
 
-## Rekisteröityminen
+## Ilmoittautuminen
 
 Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
 
-[Rekisteröidy tapahtumaan|mx-auto p-4 border border-black rounded-xl text-2xl bg-gray-100 hover:bg-gray-200](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
+[Ilmoittaudu tapahtumaan|mx-auto p-4 border border-black rounded-xl text-2xl bg-gray-100 hover:bg-gray-200](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
