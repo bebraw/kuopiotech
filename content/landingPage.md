@@ -11,7 +11,7 @@ Syksyn kickoff pidetään perjantaina 28.10 16:00-23:00 [Novapoliksen 7th Heaven
 * 18:15-18:30 - Tauko
 * 18:30-19:15 - Lights, camera, GitHub Actions – Jukka Loikkanen
 * 19:15-19:30 - Tauko
-* 19:30-20:15 - Antti Arnell
+* 19:30-20:15 - Antti Arnell – Making your environments more secure
 * 20:15-23:00 - Loppuseurustelua
 
 Huom! Tapahtuma on suomenkielinen ja tilaa on vain 30 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille on mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 23:00 asti.
