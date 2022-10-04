@@ -6,7 +6,7 @@ DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhte
 
 Syksyn kickoff pidetään perjantaina 28.10 16:00-23:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
 
-* 16:00-17:30 - Ovet avautuvat + syömistä
+* 16:30-17:30 - Ovet avautuvat + syömistä
 * 17:30-18:15 - The future is mostly static – Juho Vepsäläinen
 * 18:15-18:30 - Tauko
 * 18:30-19:15 - Lights, camera, GitHub Actions – Jukka Loikkanen
