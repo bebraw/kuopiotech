@@ -4,7 +4,7 @@ DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhte
 
 ## Kehitystapahtuma 28.10
 
-Syksyn kickoff pidetään perjantaina 28.10 16:00-23:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
+Syksyn kickoff pidetään perjantaina 28.10 16:30-23:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
 
 * 16:30-17:30 - Ovet avautuvat + syömistä
 * 17:30-18:15 - The future is mostly static – Juho Vepsäläinen
