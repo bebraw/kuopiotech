@@ -2,19 +2,25 @@
 
 DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhteenliittymä, joka järjestää seudulla tapahtumia. Osallistu tavataksesi muita seudun ohjelmoijia.
 
+Tulevista tapahtumista [tiedotamme LinkedInin puolella](https://www.linkedin.com/groups/13737736/).
+
+## Menneet tapahtumat
+
+Ohessa listaus menneistä tapahtumista.
+
 ## Kehitystapahtuma 28.10
 
 Syksyn kickoff pidetään perjantaina 28.10 16:30-23:00 [Novapoliksen 7th Heaven juhla- ja saunatilassa](https://www.novapolis.fi/kokoustilat/7th-heaven/). Alustava agenda alla:
 
 * 16:30-17:30 - Ovet avautuvat + syömistä
-* 17:30-18:15 - The future is mostly static – Juho Vepsäläinen
+* 17:30-18:15 - The future is mostly static – Juho Vepsäläinen – [Juhon slaidit](/assets/slides/juho.pdf)
 * 18:15-18:30 - Tauko
-* 18:30-19:15 - Lights, camera, GitHub Actions – Jukka Loikkanen
+* 18:30-19:15 - Lights, camera, GitHub Actions – Jukka Loikkanen – [Jukan slaidit](/assets/slides/jukka.pdf)
 * 19:15-19:30 - Tauko
-* 19:30-20:15 - Antti Arnell – Making your environments more secure
+* 19:30-20:15 - Antti Arnell – Making your environments more secure – [Antin slaidit](/assets/slides/antti.pdf)
 * 20:15-23:00 - Loppuseurustelua
 
-Huom! Tapahtuma on suomenkielinen ja tilaa on vain 30 osallistujalle. Tarjoamme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille on mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 23:00 asti.
+Huom! Tapahtuma oli suomenkielinen ja tilaa oli vain 30 osallistujalle. Tarjosimme ruoat ja juomat ilmaiseksi. Iso kiitos sponsoreillemme tästä! Virallisen ohjelman jälkeen osallistujille oli mahdollista jäädä tiloihin saunomaan ja nauttimaan iloisten devaajien seurasta aina 23:00 asti.
 
 ## Puhujista
 
@@ -43,9 +49,3 @@ Tällä hetkellä hän toimii Cloud & Data yksikön leadina Meltlakella ja hän 
 Jukka on pilviammattilainen ja kouluttaja, jonka ura IT:n parissa alkoi jo kypsässä 13 vuoden iässä web-kehityksen ja palvelinhallinnan parissa. Sen jälkeen tie on vienyt mm. tietokantakehitykseen, järjestelmäasiantuntijatehtäviin ja lopulta julkipilveen. Vuodesta 2019 Jukan fokus on ollut tiukasti Azuressa ja nykyisin hän auttaa yrityksiä mm. pilvisiirtymissä, -kehityksessä sekä pilven ylläpidossa.
 
 Jukka työskentelee Nordcloudilla Senior Azure Architectina ja jakaa mielellään julkipilven ja varsinkin Azuren ilosanomaa puhumalla konferenseissa ja meetupeissa sekä kirjoittamassaan [blogissa](https://jukkaloikkanen.fi). Hän on myös aktiivisesti mukana Suomen Azure-yhteisöjen ([FAUG](https://www.meetup.com/finland-azure-user-group) ja [Azure & Friends](https://www.azureandfriends.com)) toiminnassa.
-
-## Ilmoittautuminen
-
-Tapahtuma on rajoitettu 30 hengelle ja ilmoittautumiset ovat sitovia.
-
-[Ilmoittaudu tapahtumaan|mx-auto p-4 border border-black rounded-xl text-2xl bg-gray-100 hover:bg-gray-200](https://fienta.com/kehittajatapahtuma?b4d07a9ad04e60293446d7d7a1c6d99a)
