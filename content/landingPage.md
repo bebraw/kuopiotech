@@ -2,7 +2,7 @@
 
 DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhteenliittymä, joka järjestää seudulla tapahtumia. Osallistu tavataksesi muita seudun ohjelmoijia.
 
-Tulevista tapahtumista [tiedotamme LinkedInin puolella](https://www.linkedin.com/groups/13737736/).
+Tulevista tapahtumista [tiedotamme LinkedInin puolella](https://www.linkedin.com/company/devkuopio).
 
 ## Menneet tapahtumat
 
