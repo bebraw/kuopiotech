@@ -2,7 +2,15 @@
 
 DevKuopio on Kuopion ja Savon seudun kehittäjien muodostama epävirallinen yhteenliittymä, joka järjestää seudulla tapahtumia. Osallistu tavataksesi muita seudun ohjelmoijia.
 
-Tulevista tapahtumista [tiedotamme LinkedInin puolella](https://www.linkedin.com/company/devkuopio).
+## Tulevat tapahtumat
+
+Tulevista tapahtumista [tiedotamme LinkedInin puolella](https://www.linkedin.com/company/devkuopio) ja myöskin alla.
+
+## AWS Immersion Day 30.05 (tiistai) 17:00-20:30
+
+Järjestämme 30.05 tiistaina AWS Immersion Dayn. Kyseessä on siis työpaja-tyyppinen tapahtuma jossa sukelletaan tekoälyn syövereihin AWS:n pinoa hyödyntäen. Vaikket tietäisi mitä GPT tai ML tekevät, olet siltikin tervetullut. Tilaa on 25 hengelle ja tilaisuus järjestetään Novapoliksessa. Tilaisuuden ovat mahdollistaneet NordHero Oy, AWS ja Novapolis.
+
+Jotta pääset mukaan, [rekisteröidy AWS Immersion Day-tapahtumaan](https://fienta.com/aws-immersion-day-and-workshop).
 
 ## Menneet tapahtumat
 
